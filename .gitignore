@@ -78,7 +78,7 @@ style_data/
 *.gz
 
 # PyTorch Weights & Large Pre-trained Models
-*.pth
+
 *.pt
 
 # Experiments, Checkpoints & Outputs (Weights, optimizers, logs)
