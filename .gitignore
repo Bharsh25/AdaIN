@@ -82,7 +82,7 @@ style_data/
 *.pt
 
 # Experiments, Checkpoints & Outputs (Weights, optimizers, logs)
-
+experiments/
 experiment2/
 trial/
 *.jpg
